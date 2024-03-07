@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marcusgumbs/ticketlifecycle.git)
 - <b>Active Directory (Miscroft Azure)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcusgumbs/activedirectory.git)
-  - [Network File Shares and Permissions ](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network File Shares and Permissions ](https://github.com/marcusgumbs/networkfilesandpermissions.git)
 
 
 <h2>🤳Connect with me:</h2>
