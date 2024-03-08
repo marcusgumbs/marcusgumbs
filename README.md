@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/marcusgumbs
+[linkedin]: www.linkedin.com/in/marcusgumbs/
