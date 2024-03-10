@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/marcusgumbs/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/marcusgumbs/postinstallconfig.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marcusgumbs/ticketlifecycle.git)
 - <b>Active Directory (Miscroft Azure)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcusgumbs/activedirectory.git)
